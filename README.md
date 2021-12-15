@@ -21,4 +21,6 @@ Desempenho = 100% nos Requisitos totais.
 
 - Desenvolva uma aplicação de um jogo de adivinhação de cores.
 
+## Resultado
+
 ![projeto_finalizado](https://user-images.githubusercontent.com/86959793/146242260-fe7391c0-8908-45aa-8c33-992690ae0db7.png)

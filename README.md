@@ -1,6 +1,7 @@
 # Boas vindas ao repositório do projeto de adivinhação de Cor!
 
-Projeto desenvolvido no bloco 5 - Módulo de Fundamentos de Desenvolvimento da WEB - Turma 17 - Trybe.
+Projeto desenvolvido no bloco 5 - Módulo de Fundamentos de Desenvolvimento da WEB - Turma 17 - Trybe. 
+
 Desempenho = 100% nos Requisitos totais.
 
 # Habilidades

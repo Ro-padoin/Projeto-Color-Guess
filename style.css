@@ -1,0 +1,20 @@
+#balls {
+  display: flex;
+}
+
+.ball {
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  justify-content: space-between;
+  margin-left: 5px;
+}
+
+#placar {
+  display: flex;
+}
+
+#score {
+  margin-left: 8px;
+}

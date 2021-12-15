@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Project Color Guess</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <header class="header">
+    <h1 id="title">Adivinhe a Cor!!</h1>
+    <div class="intrucoes">
+      <p>Neste jogo, você terá que adivinhar a cor a que se refere o código RGB, basta clicar sobre a cor.</p>
+      <p>A cada acerto, você ganha 3 pontos</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="cor">
+      <p id="rgb-color">(168, 34, 1)</p>
+    </section>
+
+    <section id="placar">
+      <p>Placar:</p>
+      <p id="score">0</p>
+    </section>
+
+    <section id="balls"></section>
+
+    <section>
+      <p id="answer">Escolha uma cor.</p>
+    </section>
+
+    <section>
+      <button id="reset-game">Reset</button>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
